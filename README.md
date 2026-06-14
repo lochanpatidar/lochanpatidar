@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Lochan Patidar
 
-<!--
-**lochanpatidar/lochanpatidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student  
+💻 Passionate about Software Development & Problem Solving  
+🌱 Currently learning Java, DSA, Python & Django  
+🚀 Interested in Web Development and Backend Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- C++
+- Java
+- Python
+- Django
+- HTML, CSS3,javascript
+  
+
+---
+
+## 📂 Projects
+- 🎓 Classroom Scheduler (Django Project)
+- 💡 More projects coming soon...
+
+---
+
+## 📫 Connect with me
+- Email: lochanpatidar6@gmail.com  
+- GitHub: https://github.com/lochanpatidar  
+- Linkdln: Lochan patidar
+---
+## ⚡ Fun Fact
+I love playing chess ♟️ — it improves my thinking, strategy, and problem-solving skills!
